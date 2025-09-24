@@ -1,2 +1,2 @@
-# login-registration-page
-"My first attempt at building a basic login and registration page"
+# Registration-page
+"My first attempt at building a basic registration page"
